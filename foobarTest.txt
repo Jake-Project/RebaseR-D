@@ -1,2 +1,2 @@
-foo
+dog
 Test for rebasing as part of R&D
